@@ -1,0 +1,20 @@
+{
+    "email" : "Madison.pardy@georgiancollege.ca",
+    "firstname" : "Madison",
+    "lastname" : "Pardy",
+	"classes" : [
+		{
+			"id" : "COMP1111",
+            "name": "Python Intro"
+		},
+        {
+			"id" : "COMP2111",
+            "name": "Python Advanced"
+		},
+        {
+			"id" : "COMP3111",
+            "name": "Cyber Security Advanced"
+		}
+
+	]
+}

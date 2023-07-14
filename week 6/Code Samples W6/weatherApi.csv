@@ -1,0 +1,5 @@
+Location,Lat,Long,WeatherJSON,
+Barrie,44.38,-79.69,BarrieWeather.csv,
+Toronto,43.65,-79.34,TorontoWeather.csv,
+Halifax,44.65, -63.58,HalifaxWeather.csv,
+Montreal,45.50,-73.56,MontrealWeather.csv,
